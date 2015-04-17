@@ -1,0 +1,10 @@
+[28-Jul-2014 09:59:49] PHP Fatal error:  Class 'MollomDrupal' not found in /home4/alivenes/public_html/sites/all/modules/mollom/mollom.module on line 2511
+[29-Aug-2014 08:21:58] PHP Parse error:  syntax error, unexpected $end in /home4/alivenes/public_html/sites/all/themes/skeletontheme/templates/node.tpl.php on line 126
+[29-Aug-2014 08:22:15] PHP Parse error:  syntax error, unexpected $end in /home4/alivenes/public_html/sites/all/themes/skeletontheme/templates/node.tpl.php on line 126
+[18-Oct-2014 10:39:33] PHP Fatal error:  Call to undefined function  lock_initialize() in /home4/alivenes/public_html/includes/bootstrap.inc on line 2482
+[20-Nov-2014 15:43:29] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home4/alivenes/public_html/includes/database/mysql/database.inc' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home4/alivenes/public_html/includes/database/database.inc on line 1688
+[20-Nov-2014 16:43:35] PHP Fatal error:  Call to undefined function  user_access() in /home4/alivenes/public_html/includes/menu.inc on line 3870
+[20-Nov-2014 16:43:52] PHP Fatal error:  Call to undefined function  user_access() in /home4/alivenes/public_html/includes/menu.inc on line 3870
+[20-Nov-2014 16:43:58] PHP Fatal error:  Call to undefined function  user_access() in /home4/alivenes/public_html/includes/menu.inc on line 3870
+[20-Nov-2014 16:44:07] PHP Fatal error:  Call to undefined function  user_access() in /home4/alivenes/public_html/includes/menu.inc on line 3870
+[20-Nov-2014 16:44:50] PHP Fatal error:  Call to undefined function  user_access() in /home4/alivenes/public_html/includes/menu.inc on line 3870

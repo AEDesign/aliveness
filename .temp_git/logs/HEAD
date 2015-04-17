@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 4a2a5557978cb1d6f9bab58b47d3e1ed39a93d0f root <eben@gmai.com> 1429245947 -0700	commit (initial): this includes all files at the prject root -ew
+4a2a5557978cb1d6f9bab58b47d3e1ed39a93d0f 2153ce2dfe4c849406b96d63061b5724f7dd9cf4 root <eben.wight@gmail.com> 1429247944 -0700	commit: just the js folder
+2153ce2dfe4c849406b96d63061b5724f7dd9cf4 1bb4419599ee41f07322502083eb08e664070745 root <eben.wight@gmail.com> 1429257883 -0700	pull origin master: Merge made by recursive.
+1bb4419599ee41f07322502083eb08e664070745 1b9f23ba95406607608ec10f632f9ad5594f9106 root <eben.wight@gmail.com> 1429257976 -0700	commit: hopefully sending files to the origin master branch
