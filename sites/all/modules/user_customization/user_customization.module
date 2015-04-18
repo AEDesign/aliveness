@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php
 // $Id$
 /**
@@ -12,4 +13,20 @@ function user_customization_form_alter(&$form, $form_state, $form_id) {
 		if ($form_id == 'user_register_form') {
 			$form['account']['notify']['#default_value'] = TRUE;
 		}     
+=======
+<?php
+// $Id$
+/**
+* @file
+* Module to set Notify New User of Account to True
+*/
+
+/**
+* Implementation of hook_form_alter()
+*/
+function user_customization_form_alter(&$form, $form_state, $form_id) {
+		if ($form_id == 'user_register_form') {
+			$form['account']['notify']['#default_value'] = TRUE;
+		}     
+>>>>>>> 8f629e40070b3020f984f88339b071d9dfc99f3e
      }

@@ -9,7 +9,11 @@
 /* #Page Styles
 ================================================== */
 
+<<<<<<< HEAD
 /* Layout Shortcodes * /
+=======
+/* Layout Shortcodes */
+>>>>>>> 8f629e40070b3020f984f88339b071d9dfc99f3e
 .full-width {width:960px; height:auto; overflow:hidden}
 
 .one_half { width: 48%; }
@@ -54,14 +58,22 @@
 #header {
     display: none;
 }
+<<<<<<< HEAD
 */
+=======
+
+>>>>>>> 8f629e40070b3020f984f88339b071d9dfc99f3e
 /* #Media Queries
 ================================================== */
 	
 	/* iPad Portrait/Browser */
 	@media only screen and (min-width: 768px) and (max-width: 991px) {}
 	
+<<<<<<< HEAD
 	/* Mobile/Browser * /
+=======
+	/* Mobile/Browser */
+>>>>>>> 8f629e40070b3020f984f88339b071d9dfc99f3e
 	@media only screen and (max-width: 767px) {
 
 	#breadcrumb { display: none; }
@@ -80,7 +92,10 @@
 	.five_sixth {width: 100%;}
 
 	}
+<<<<<<< HEAD
 	*/
+=======
+>>>>>>> 8f629e40070b3020f984f88339b071d9dfc99f3e
 	
 	/* Mobile Landscape/Browser */
 	@media only screen and (min-width: 480px) and (max-width: 767px) {}
