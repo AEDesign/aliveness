@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Dine Out, Do Good!  Thursday April 25, 2013 
 Breakfast, Lunch or Dinner
 Please join me on Thursday, April 25 for the 19th annual Dining Out For Life® at over 180 Minnesota restaurants and a percentage of your bill will be donated to the The Aliveness Project.   Since 1985 The Aliveness Project has worked to reduce the spread of HIV/AIDS in our state, while improving the lives of individuals and families living with HIV/AIDS.
@@ -5,3 +6,12 @@ I will be an Ambassador at ____________ for ______ and I would love to have you 
 It’s the best meal you’ll have all year.
  Reservations are strongly suggested!
 
+=======
+Dine Out, Do Good!  Thursday April 25, 2013 
+Breakfast, Lunch or Dinner
+Please join me on Thursday, April 25 for the 19th annual Dining Out For Life® at over 180 Minnesota restaurants and a percentage of your bill will be donated to the The Aliveness Project.   Since 1985 The Aliveness Project has worked to reduce the spread of HIV/AIDS in our state, while improving the lives of individuals and families living with HIV/AIDS.
+I will be an Ambassador at ____________ for ______ and I would love to have you join me.  But if you can’t meet me there, please make plans to eat at one of our other fine dining establishments.  For an up to date list of participating restaurants go to www.diningoutforlife.com and click on the Minnesota link. If you can’t dine out on April 25, you can still make a donation in my name to support this great cause on www.aliveness.org. 
+It’s the best meal you’ll have all year.
+ Reservations are strongly suggested!
+
+>>>>>>> 8f629e40070b3020f984f88339b071d9dfc99f3e

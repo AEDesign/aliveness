@@ -1,5 +1,10 @@
 <div id="wrap">
     <div class="container">
+<<<<<<< HEAD
+	
+		<h1>test</h1>
+=======
+>>>>>>> 8f629e40070b3020f984f88339b071d9dfc99f3e
         
         <?php if ($page['header_top_left'] || $page['header_top_right']): ?>
         <!-- #header-top -->
@@ -93,6 +98,14 @@
             
         </div><!-- /#navigation -->
         
+<<<<<<< HEAD
+		
+		
+		
+		
+		
+=======
+>>>>>>> 8f629e40070b3020f984f88339b071d9dfc99f3e
         <?php if ($page['sidebar_first']): ?>
         <!-- #sidebar-first -->
         <div id="sidebar-first" class="five columns">
@@ -105,6 +118,16 @@
         <?php } elseif ($page['sidebar_first'] || $page['sidebar_second']) { ?>
         <div id="content" class="eleven columns">
 		<?php } else { ?>
+<<<<<<< HEAD
+		
+		
+		
+		
+		
+		
+		
+=======
+>>>>>>> 8f629e40070b3020f984f88339b071d9dfc99f3e
         <div id="content" class="sixteen columns clearfix">    
         <?php } ?>
         
@@ -113,12 +136,20 @@
                 <?php print $messages; ?>
                 </div><!-- /#messages -->
             <?php endif; ?>
+<<<<<<< HEAD
+			<!--       
+=======
  <!--       
+>>>>>>> 8f629e40070b3020f984f88339b071d9dfc99f3e
             <?php if ($breadcrumb): ?>
                 <div id="breadcrumb"><?php print $breadcrumb; ?></div>
             <?php endif; ?> -->
             
+<<<<<<< HEAD
+            <div id="main" style="border:1px dotted orange">
+=======
             <div id="main">
+>>>>>>> 8f629e40070b3020f984f88339b071d9dfc99f3e
             
                 <?php if ($page['highlighted']): ?><div id="highlighted" class="clearfix"><?php print render($page['highlighted']); ?></div><?php endif; ?>
                 
@@ -153,6 +184,21 @@
         
         </div><!-- /#content -->
         
+<<<<<<< HEAD
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+=======
+>>>>>>> 8f629e40070b3020f984f88339b071d9dfc99f3e
         <?php if ($page['sidebar_second']): ?>
         <!-- #sidebar-first -->
         <div id="sidebar-second" class="five columns">
