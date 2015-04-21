@@ -20,7 +20,7 @@
 
 
 
-
+	<--!the centlal lalyout section for the ae redesign - ex -->
 	<div id="theMessageBoard" style="display:block; width:80%; height:70%;  background:rgba(123,156,189,0.92); position:fixed; top:17%; left:11%; z-index:99; color:#fff; padding:25px;">
 
 
