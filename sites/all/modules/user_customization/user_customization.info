@@ -1,9 +1,3 @@
-<<<<<<< HEAD
 name = User Customization
 description = Sets Notify New User of Account status to True
 core = 7.x
-=======
-name = User Customization
-description = Sets Notify New User of Account status to True
-core = 7.x
->>>>>>> 8f629e40070b3020f984f88339b071d9dfc99f3e
