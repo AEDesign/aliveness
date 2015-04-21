@@ -1,59 +1,25 @@
-<<<<<<< HEAD
-Software License Agreement
-==========================
+CKEditor SCAYT Plugin
+=====================
 
-**CKEditor SCAYT Plugin**
-Copyright &copy; 2012, [CKSource](http://cksource.com) - Frederico Knabben. All rights reserved.
+This plugin brings Spell Check As You Type (SCAYT) into up to CKEditor 4+.
 
-Licensed under the terms of any of the following licenses at your choice:
+SCAYT is a "installation-less", using the web-services of [WebSpellChecker.net](http://www.webspellchecker.net/). It's an out of the box solution.
 
-*   GNU General Public License Version 2 or later (the "GPL"):
-    http://www.gnu.org/licenses/gpl.html
+Installation
+------------
 
-*   GNU Lesser General Public License Version 2.1 or later (the "LGPL"):
-    http://www.gnu.org/licenses/lgpl.html
+1. Clone/copy this repository contents in a new "plugins/scayt" folder in your CKEditor installation.
+2. Enable the "scayt" plugin in the CKEditor configuration file (config.js):
 
-*   Mozilla Public License Version 1.1 or later (the "MPL"):
-    http://www.mozilla.org/MPL/MPL-1.1.html
+        config.extraPlugins = 'scayt';
 
-You are not required to, but if you want to explicitly declare the license you have chosen to be bound to when using, reproducing, modifying and distributing this software, just include a text file titled "legal.txt" in your version of this software, indicating your license choice.
+That's all. SCAYT will appear on the editor toolbar and will be ready to use.
 
-Sources of Intellectual Property Included in this plugin
---------------------------------------------------------
+License
+-------
 
-Where not otherwise indicated, all plugin content is authored by CKSource engineers and consists of CKSource-owned intellectual property. In some specific instances, the plugin will incorporate work done by developers outside of CKSource with their express permission.
+Licensed under the terms of any of the following licenses at your choice: [GPL](http://www.gnu.org/licenses/gpl.html), [LGPL](http://www.gnu.org/licenses/lgpl.html) and [MPL](http://www.mozilla.org/MPL/MPL-1.1.html).
 
-Trademarks
-----------
+See LICENSE.md for more information.
 
-CKEditor is a trademark of CKSource - Frederico Knabben. All other brand and product names are trademarks, registered trademarks or service marks of their respective holders.
-=======
-Software License Agreement
-==========================
-
-**CKEditor SCAYT Plugin**
-Copyright &copy; 2012, [CKSource](http://cksource.com) - Frederico Knabben. All rights reserved.
-
-Licensed under the terms of any of the following licenses at your choice:
-
-*   GNU General Public License Version 2 or later (the "GPL"):
-    http://www.gnu.org/licenses/gpl.html
-
-*   GNU Lesser General Public License Version 2.1 or later (the "LGPL"):
-    http://www.gnu.org/licenses/lgpl.html
-
-*   Mozilla Public License Version 1.1 or later (the "MPL"):
-    http://www.mozilla.org/MPL/MPL-1.1.html
-
-You are not required to, but if you want to explicitly declare the license you have chosen to be bound to when using, reproducing, modifying and distributing this software, just include a text file titled "legal.txt" in your version of this software, indicating your license choice.
-
-Sources of Intellectual Property Included in this plugin
---------------------------------------------------------
-
-Where not otherwise indicated, all plugin content is authored by CKSource engineers and consists of CKSource-owned intellectual property. In some specific instances, the plugin will incorporate work done by developers outside of CKSource with their express permission.
-
-Trademarks
-----------
-
-CKEditor is a trademark of CKSource - Frederico Knabben. All other brand and product names are trademarks, registered trademarks or service marks of their respective holders.
->>>>>>> 8f629e40070b3020f984f88339b071d9dfc99f3e
+Developed in cooperation with [WebSpellChecker.net](http://www.webspellchecker.net/).
