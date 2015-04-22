@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Software License Agreement
 ==========================
 
@@ -28,6 +29,8 @@ Trademarks
 
 CKEditor is a trademark of CKSource - Frederico Knabben. All other brand and product names are trademarks, registered trademarks or service marks of their respective holders.
 =======
+=======
+>>>>>>> origin/master
 Software License Agreement
 ==========================
 
@@ -56,4 +59,3 @@ Trademarks
 ----------
 
 CKEditor is a trademark of CKSource - Frederico Knabben. All other brand and product names are trademarks, registered trademarks or service marks of their respective holders.
->>>>>>> 8f629e40070b3020f984f88339b071d9dfc99f3e

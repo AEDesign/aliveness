@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <?php
 // $Id$
 /**
@@ -14,6 +15,8 @@ function user_customization_form_alter(&$form, $form_state, $form_id) {
 			$form['account']['notify']['#default_value'] = TRUE;
 		}     
 =======
+=======
+>>>>>>> origin/master
 <?php
 // $Id$
 /**
@@ -28,5 +31,4 @@ function user_customization_form_alter(&$form, $form_state, $form_id) {
 		if ($form_id == 'user_register_form') {
 			$form['account']['notify']['#default_value'] = TRUE;
 		}     
->>>>>>> 8f629e40070b3020f984f88339b071d9dfc99f3e
      }

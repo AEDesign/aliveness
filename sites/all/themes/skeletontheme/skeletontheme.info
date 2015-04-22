@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 name = Skeleton
 description = Skeleton is a powerful, clean, responsive theme ported to Drupal by <a href="http://www.morethanthemes.com/" target="_blank">More Than (just) Themes</a>. If you like this theme, we encourage you to try also our other <a href="http://www.morethanthemes.com" target="_blank">Premium</a> and <a href="http://drupalizing.com" target="_blank">Free</a> Drupal themes.
 version = VERSION
@@ -36,6 +37,8 @@ regions[page_bottom] = Page bottom
 settings[responsive_menu_state]= 1
 settings[responsive_menu_switchwidth]='760'
 =======
+=======
+>>>>>>> origin/master
 name = Skeleton
 description = Skeleton is a powerful, clean, responsive theme ported to Drupal by <a href="http://www.morethanthemes.com/" target="_blank">More Than (just) Themes</a>. If you like this theme, we encourage you to try also our other <a href="http://www.morethanthemes.com" target="_blank">Premium</a> and <a href="http://drupalizing.com" target="_blank">Free</a> Drupal themes.
 version = VERSION
@@ -72,7 +75,6 @@ regions[page_bottom] = Page bottom
 
 settings[responsive_menu_state]= 1
 settings[responsive_menu_switchwidth]='760'
->>>>>>> 8f629e40070b3020f984f88339b071d9dfc99f3e
 settings[responsive_menu_topoptiontext]= 'Select a page'
 ; Information added by Drupal.org packaging script on 2014-04-08
 version = "7.x-1.4"

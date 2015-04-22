@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 CKEditor WebSpellChecker Plugin
 ===============================
 
@@ -25,6 +26,8 @@ See LICENSE.md for more information.
 
 Developed in cooperation with [WebSpellChecker.net](http://www.webspellchecker.net/).
 =======
+=======
+>>>>>>> origin/master
 CKEditor WebSpellChecker Plugin
 ===============================
 
@@ -50,4 +53,3 @@ Licensed under the terms of any of the following licenses at your choice: [GPL](
 See LICENSE.md for more information.
 
 Developed in cooperation with [WebSpellChecker.net](http://www.webspellchecker.net/).
->>>>>>> 8f629e40070b3020f984f88339b071d9dfc99f3e

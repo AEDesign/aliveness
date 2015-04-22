@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 CKEditor 4 Changelog
 ====================
 
@@ -555,6 +556,8 @@ the CKEditor 4 documentation][1].
 =======
 CKEditor 4 Changelog
 ====================
+=======
+>>>>>>> origin/master
 
 ## CKEditor 4.4.1
 
@@ -1106,4 +1109,3 @@ possible. The list of relevant changes can be found in the [API Changes page of
 the CKEditor 4 documentation][1].
 
 [1]: http://docs.ckeditor.com/#!/guide/dev_api_changes "API Changes"
->>>>>>> 8f629e40070b3020f984f88339b071d9dfc99f3e
