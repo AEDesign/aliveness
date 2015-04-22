@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+name = User Customization
+description = Sets Notify New User of Account status to True
+core = 7.x
+=======
+=======
+>>>>>>> origin/master
 name = User Customization
 description = Sets Notify New User of Account status to True
 core = 7.x
